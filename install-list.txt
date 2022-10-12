@@ -2,8 +2,7 @@ oderwat.indent-rainbow
 shardulm94.trailing-spaces
 streetsidesoftware.code-spell-checker
 vscode-icons-team.vscode-icons
-redhat.vscode-xml
 nhoizey.gremlins
-vscjava.vscode-java-pack
 sohibe.java-generate-setters-getters
 cwan.native-ascii-converter
+doggy8088.spring-boot-snippets
