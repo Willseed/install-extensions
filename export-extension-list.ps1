@@ -1,0 +1,1 @@
+code --list-extensions > $PSScriptRoot\install-list.txt

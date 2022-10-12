@@ -1,0 +1,1 @@
+code --list-extensions > %cd%\install-list.txt
